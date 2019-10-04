@@ -11,7 +11,7 @@
     <table class="table">
         <thead>
         <tr>
-            <th>Firstname</th>
+            <th>gashirgotti</th>
             <th>Lastname</th>
             <th>Email</th>
         </tr>
