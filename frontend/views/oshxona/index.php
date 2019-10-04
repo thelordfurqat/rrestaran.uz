@@ -4,7 +4,7 @@
 <div class="container">
     <p>
         <?php echo '<pre>';
-    print_r($model);
+//    print_r($model);
     echo '</pre>';
     ?>
     </p>
